@@ -7,7 +7,6 @@
           "nombre": "Real Madrid",
           "ciudad": "Madrid",
           "estadio": "Santiago Bernabéu",
-		  "liga": "La Liga",
           "jugadores": [
             {"nombre": "Karim Benzema", "posicion": "Delantero", "edad": 33},
 			{"nombre": "Sergio Ramos", "posicion": "Defensa", "edad": 35},
@@ -25,7 +24,6 @@
           "nombre": "FC Barcelona",
           "ciudad": "Barcelona",
           "estadio": "Camp Nou",
-		  "liga": "La Liga",
           "jugadores": [
             {"nombre": "Lionel Messi", "posicion": "Delantero", "edad": 34},
 			{"nombre": "Gerard Piqué", "posicion": "Defensa", "edad": 35},
@@ -48,7 +46,6 @@
           "nombre": "Manchester United",
           "ciudad": "Manchester",
           "estadio": "Old Trafford",
-		  "liga": "LaPremier",
           "jugadores": [
             {"nombre": "Bruno Fernandes", "posicion": "Centrocampista", "edad": 27},
             {"nombre": "Harry Maguire", "posicion": "Defensa", "edad": 28},
@@ -58,7 +55,6 @@
           "nombre": "Liverpool",
           "ciudad": "Liverpool",
           "estadio": "Anfield",
-		 "liga": "LaPremier",
           "jugadores": [
             {"nombre": "Mohamed Salah", "posicion": "Delantero", "edad": 29},
             {"nombre": "Virgil van Dijk", "posicion": "Defensa", "edad": 30},
