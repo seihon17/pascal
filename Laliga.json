@@ -5,6 +5,7 @@
       "nombre": "Real Madrid",
       "ciudad": "Madrid",
       "estadio": "Santiago Bernabéu",
+	  "liga": "La Liga",
       "jugadores": [
         {"nombre": "Karim Benzema", "posicion": "Delantero", "edad": 33},
         {"nombre": "Sergio Ramos", "posicion": "Defensa", "edad": 35},
@@ -22,6 +23,7 @@
       "nombre": "FC Barcelona",
       "ciudad": "Barcelona",
       "estadio": "Camp Nou",
+	  "liga": "La Liga",
       "jugadores": [
         {"nombre": "Lionel Messi", "posicion": "Delantero", "edad": 34},
         {"nombre": "Gerard Piqué", "posicion": "Defensa", "edad": 35},
