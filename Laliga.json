@@ -10,37 +10,6 @@
           "jugadores": [
             {"nombre": "Karim Benzema", "posicion": "Delantero", "edad": 33}
           ]
-        },
-        {
-          "nombre": "FC Barcelona",
-          "ciudad": "Barcelona",
-          "estadio": "Camp Nou",
-          "jugadores": [
-            {"nombre": "Lionel Messi", "posicion": "Delantero", "edad": 34}
-          ]
-        }
-      ]
-    },
-    {
-      "nombre": "LaPremier",
-      "equipos": [
-        {
-          "nombre": "Manchester United",
-          "ciudad": "Manchester",
-          "estadio": "Old Trafford",
-          "jugadores": [
-            {"nombre": "Bruno Fernandes", "posicion": "Centrocampista", "edad": 27},
-            {"nombre": "Harry Maguire", "posicion": "Defensa", "edad": 28},
-          ]
-        },
-        {
-          "nombre": "Liverpool",
-          "ciudad": "Liverpool",
-          "estadio": "Anfield",
-          "jugadores": [
-            {"nombre": "Mohamed Salah", "posicion": "Delantero", "edad": 29},
-            {"nombre": "Virgil van Dijk", "posicion": "Defensa", "edad": 30},
-          ]
         }
       ]
     }
