@@ -8,16 +8,8 @@
           "ciudad": "Madrid",
           "estadio": "Santiago Bernabéu",
           "jugadores": [
-            {"nombre": "Karim Benzema", "posicion": "Delantero", "edad": 33},
-	    {"nombre": "Sergio Ramos", "posicion": "Defensa", "edad": 35},
-	    {"nombre": "Luka Modric", "posicion": "Centrocampista", "edad": 35},
-	    {"nombre": "Thibaut Courtois", "posicion": "Portero", "edad": 29},
-	    {"nombre": "Casemiro", "posicion": "Centrocampista", "edad": 29},
-	    {"nombre": "Eden Hazard", "posicion": "Delantero", "edad": 30},
-	    {"nombre": "Ferland Mendy", "posicion": "Defensa", "edad": 26},
-	    {"nombre": "Marco Asensio", "posicion": "Delantero", "edad": 25},
-	    {"nombre": "Rodrygo", "posicion": "Delantero", "edad": 20},
-	    {"nombre": "Eder Militao", "posicion": "Defensa", "edad": 23}
+            {"nombre": "Karim Benzema", "posicion": "Delantero", "edad": 33}
+	  
           ]
         },
         {
