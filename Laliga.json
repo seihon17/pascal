@@ -1,26 +1,7 @@
 {
   "ligas": [
-    {
-      "nombre": "La Liga",
-      "equipos": [
-        {
-          "nombre": "Real Madrid",
-          "ciudad": "Madrid",
-          "estadio": "Santiago Bernabéu",
-          "jugadores": [
-            {"nombre": "Karim Benzema", "posicion": "Delantero", "edad": 33}
-          ]
-        },
-        {
-          "nombre": "FC Barcelona",
-          "ciudad": "Barcelona",
-          "estadio": "Camp Nou",
-          "jugadores": [
-            {"nombre": "Lionel Messi", "posicion": "Delantero", "edad": 34}
-          ]
-        }
-      ]
-    },
+
+  
     {
       "nombre": "LaPremier",
       "equipos": [
